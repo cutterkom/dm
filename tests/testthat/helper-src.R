@@ -77,6 +77,7 @@ d3_src <- test_load(d3)
 d4_src <- test_load(d4)
 d5_src <- test_load(d5)
 d6_src <- test_load(d6)
+d8_src <- test_load(d8)
 
 # names of sources for naming files for mismatch-comparison; 1 name for each src needs to be given
 src_names <- names(d1_src) # e.g. gets src names of list entries of object d1_src
